@@ -1,7 +1,7 @@
 ---
 id: k-line-decrypt
 title: K 線解密
-sidebar_label: k-line-decrypt
+sidebar_label: K 線解密
 slug: /k-line-decrypt
 ---
 
@@ -68,4 +68,3 @@ ex：第一天漲長紅棒+第二天的價錢在**第一天的長紅棒1/2以上
 3. 大戶持股比率，較上一週增加
 （可列為注意）
 4. 所以如果再出現紅k棒，就可以進場
-5. 何時賣：
